@@ -34,5 +34,6 @@ public static void main(String[] args) {
 	System.out.println(b[2]);
 	System.out.println(b[4]);
 	System.out.println("coded new");
+	System.out.println("just cheking");
 }
 }
